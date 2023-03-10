@@ -1,4 +1,4 @@
-# 🧮 [TO-DO APP](https://andressavianab.github.io/)
+# 🧮 [TO-DO APP](https://andressavianab.github.io/TODO-APP/)
 
 This is a todo list app, where users can save their tasks without worrying about losing them, as they are saved in the browser's database.
 
@@ -38,3 +38,5 @@ Users should be able to:
 - github - [@rehfeld13](https://github.com/rehfeld13)
 
 ## Acknowledgments
+
+- To [@rehfeld13](https://github.com/rehfeld13), who made the app's CSS.
